@@ -8,7 +8,8 @@ que deve disponibilizar para isso.</p>
 
 # Apresentação:
 
-https://user-images.githubusercontent.com/94305752/153358423-4d51d67c-246f-4ea8-a624-b90fd109ea40.gif
+![gif feito](https://user-images.githubusercontent.com/94305752/153358894-63ca1de9-7871-4652-a900-669f71cec096.gif)
+
 
 <h3>Gif da apresentação do jogo</h3>
 
